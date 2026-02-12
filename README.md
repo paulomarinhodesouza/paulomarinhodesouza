@@ -1,16 +1,44 @@
-## Hi there 👋
+# ☕ Paulo Marinho de Souza
 
-<!--
-**paulomarinhodesouza/paulomarinhodesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Java Software Engineer`**
 
-Here are some ideas to get you started:
+Sou Paulo Marinho, desenvolvedor especializado em back-end com Java, Spring Boot, microservices, REST APIs e integrações de sistemas de pagamento. Domino MySQL e PostgreSQL com replicação e otimização, JWT, Docker, Git/GitHub e Angular, atuando em projetos escaláveis, automação, troubleshooting e full-stack web, incluindo sistemas legados em PHP. No meu GitHub, compartilho repositórios práticos em Java e Spring Boot que demonstram minha expertise em versionamento e colaboração.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻Linguagens e Tecnologias
+
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="left" style="padding-right: 10px;" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://streak-stats.demolab.com/?user=paulomarinhodesouza&theme=dark&locale=pt_BR" 
+  />
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarinhodesouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
