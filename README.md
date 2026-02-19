@@ -1,4 +1,4 @@
-# ☕ Paulo Marinho de Souza
+# ☕ Paulo Marinho
 
 **`Java Software Engineer`**
 
