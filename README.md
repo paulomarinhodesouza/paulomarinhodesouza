@@ -33,12 +33,11 @@ Sou Paulo Marinho, desenvolvedor especializado em back-end com Java, Spring Boot
     style="padding-right: 10px;" 
     src="https://streak-stats.demolab.com/?user=paulomarinhodesouza&theme=dark&locale=pt_BR" 
   />
-
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulomarinhodesouza&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-stats-extended.vercel.app/api/top-langs?username=paulomarinhodesouza&langs_count=4&theme=prussian" 
   />
 
 </p>
